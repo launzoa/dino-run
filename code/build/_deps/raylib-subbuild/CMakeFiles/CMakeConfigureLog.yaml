@@ -1,0 +1,80 @@
+
+---
+events:
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/CMakeDetermineSystem.cmake:12 (find_program)"
+      - "CMakeLists.txt:16 (project)"
+    mode: "program"
+    variable: "CMAKE_UNAME"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "uname"
+    candidate_directories:
+      - "/home/launzoa/.gemini/antigravity/bin/"
+      - "/home/launzoa/.config/Antigravity/bin/"
+      - "/home/launzoa/.local/share/mise/installs/java/25.0.1/bin/"
+      - "/home/launzoa/.local/share/mise/installs/node/25.2.1/bin/"
+      - "/home/launzoa/.local/share/mise/installs/python/3.14.2/bin/"
+      - "/home/launzoa/.local/share/omarchy/bin/"
+      - "/home/launzoa/.local/share/mise/shims/"
+      - "/home/launzoa/.juliaup/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/bin/"
+      - "/home/launzoa/.local/share/flatpak/exports/bin/"
+      - "/usr/lib/jvm/default/bin/"
+      - "/usr/bin/site_perl/"
+      - "/usr/bin/vendor_perl/"
+      - "/usr/bin/core_perl/"
+      - "/home/launzoa/.local/bin/"
+      - "/bin/"
+    searched_directories:
+      - "/home/launzoa/.gemini/antigravity/bin/uname"
+      - "/home/launzoa/.config/Antigravity/bin/uname"
+      - "/home/launzoa/.local/share/mise/installs/java/25.0.1/bin/uname"
+      - "/home/launzoa/.local/share/mise/installs/node/25.2.1/bin/uname"
+      - "/home/launzoa/.local/share/mise/installs/python/3.14.2/bin/uname"
+      - "/home/launzoa/.local/share/omarchy/bin/uname"
+      - "/home/launzoa/.local/share/mise/shims/uname"
+      - "/home/launzoa/.juliaup/bin/uname"
+      - "/usr/local/sbin/uname"
+      - "/usr/local/bin/uname"
+    found: "/usr/bin/uname"
+    search_context:
+      ENV{PATH}:
+        - "/home/launzoa/.gemini/antigravity/bin"
+        - "/home/launzoa/.config/Antigravity/bin"
+        - "/home/launzoa/.local/share/mise/installs/java/25.0.1/bin"
+        - "/home/launzoa/.local/share/mise/installs/node/25.2.1/bin"
+        - "/home/launzoa/.local/share/mise/installs/python/3.14.2/bin"
+        - "/home/launzoa/.local/share/omarchy/bin"
+        - "/home/launzoa/.local/share/mise/shims"
+        - "/home/launzoa/.local/share/omarchy/bin"
+        - "/home/launzoa/.juliaup/bin"
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/bin"
+        - "/home/launzoa/.local/share/flatpak/exports/bin"
+        - "/usr/lib/jvm/default/bin"
+        - "/usr/bin/site_perl"
+        - "/usr/bin/vendor_perl"
+        - "/usr/bin/core_perl"
+        - "/home/launzoa/.local/bin"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/CMakeDetermineSystem.cmake:212 (message)"
+      - "CMakeLists.txt:16 (project)"
+    message: |
+      The system is: Linux - 7.0.9-arch2-1 - x86_64
+...

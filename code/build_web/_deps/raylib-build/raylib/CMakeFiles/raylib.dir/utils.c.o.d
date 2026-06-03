@@ -1,0 +1,36 @@
+_deps/raylib-build/raylib/CMakeFiles/raylib.dir/utils.c.o: \
+  /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-src/src/utils.c \
+  /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-src/src/raylib.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdarg.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/stdarg.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/stdarg.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg_header_macro.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg___gnuc_va_list.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg_va_list.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg_va_arg.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg___va_copy.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg_va_copy.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/stdbool.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/stdbool.h \
+  /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-src/src/config.h \
+  /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-src/src/utils.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/stdio.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/wasi/api.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/stddef.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/stddef.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stddef_header_macro.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stddef_ptrdiff_t.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stddef_size_t.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stddef_wchar_t.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stddef_null.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stddef_offsetof.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/stdint.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/string.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/strings.h

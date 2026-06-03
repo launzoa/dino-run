@@ -1,0 +1,28 @@
+_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rshapes.c.o: \
+  /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-src/src/rshapes.c \
+  /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-src/src/raylib.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdarg.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/stdarg.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/stdarg.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg_header_macro.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg___gnuc_va_list.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg_va_list.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg_va_arg.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg___va_copy.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__stdarg_va_copy.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/stdbool.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/stdbool.h \
+  /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-src/src/config.h \
+  /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-src/src/rlgl.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/compat/math.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/math.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/float.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/float.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__float_header_macro.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__float_float.h \
+  /home/launzoa/GitHub/emsdk/upstream/lib/clang/23/include/__float_infinity_nan.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /home/launzoa/GitHub/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h
