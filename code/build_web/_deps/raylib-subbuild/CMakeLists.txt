@@ -20,8 +20,8 @@ project(raylib-populate NONE)
 include(ExternalProject)
 ExternalProject_Add(raylib-populate
                      "UPDATE_DISCONNECTED" "False" "DOWNLOAD_EXTRACT_TIMESTAMP" "TRUE" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR" "URL" "https://github.com/raysan5/raylib/archive/refs/tags/5.0.tar.gz"
-                    SOURCE_DIR          "/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-src"
-                    BINARY_DIR          "/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-build"
+                    SOURCE_DIR          "/home/launzoa/Documents/GitHub/dino-run/code/build_web/_deps/raylib-src"
+                    BINARY_DIR          "/home/launzoa/Documents/GitHub/dino-run/code/build_web/_deps/raylib-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

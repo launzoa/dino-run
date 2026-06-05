@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/launzoa/GitHub/Neural-Networks/T-Rex
+CMAKE_SOURCE_DIR = /home/launzoa/Documents/GitHub/dino-run/code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web
+CMAKE_BINARY_DIR = /home/launzoa/Documents/GitHub/dino-run/code/build_web
 
 # Include any dependencies generated for this target.
 include CMakeFiles/dino_run.dir/depend.make
@@ -74,108 +74,108 @@ CMakeFiles/dino_run.dir/codegen:
 
 CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o: CMakeFiles/dino_run.dir/flags.make
 CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o: CMakeFiles/dino_run.dir/includes_CXX.rsp
-CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o: /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/GameWorld.cpp
+CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o: /home/launzoa/Documents/GitHub/dino-run/code/src/core/GameWorld.cpp
 CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o: CMakeFiles/dino_run.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o -MF CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o.d -o CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o -c /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/GameWorld.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o"
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o -MF CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o.d -o CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.o -c /home/launzoa/Documents/GitHub/dino-run/code/src/core/GameWorld.cpp
 
 CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.i"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/GameWorld.cpp > CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.i
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/Documents/GitHub/dino-run/code/src/core/GameWorld.cpp > CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.i
 
 CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.s"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/GameWorld.cpp -o CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.s
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/Documents/GitHub/dino-run/code/src/core/GameWorld.cpp -o CMakeFiles/dino_run.dir/src/core/GameWorld.cpp.s
 
 CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o: CMakeFiles/dino_run.dir/flags.make
 CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o: CMakeFiles/dino_run.dir/includes_CXX.rsp
-CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o: /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/Obstacle.cpp
+CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o: /home/launzoa/Documents/GitHub/dino-run/code/src/core/Obstacle.cpp
 CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o: CMakeFiles/dino_run.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o -MF CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o.d -o CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o -c /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/Obstacle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o"
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o -MF CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o.d -o CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.o -c /home/launzoa/Documents/GitHub/dino-run/code/src/core/Obstacle.cpp
 
 CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.i"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/Obstacle.cpp > CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.i
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/Documents/GitHub/dino-run/code/src/core/Obstacle.cpp > CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.i
 
 CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.s"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/Obstacle.cpp -o CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.s
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/Documents/GitHub/dino-run/code/src/core/Obstacle.cpp -o CMakeFiles/dino_run.dir/src/core/Obstacle.cpp.s
 
 CMakeFiles/dino_run.dir/src/core/TRex.cpp.o: CMakeFiles/dino_run.dir/flags.make
 CMakeFiles/dino_run.dir/src/core/TRex.cpp.o: CMakeFiles/dino_run.dir/includes_CXX.rsp
-CMakeFiles/dino_run.dir/src/core/TRex.cpp.o: /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/TRex.cpp
+CMakeFiles/dino_run.dir/src/core/TRex.cpp.o: /home/launzoa/Documents/GitHub/dino-run/code/src/core/TRex.cpp
 CMakeFiles/dino_run.dir/src/core/TRex.cpp.o: CMakeFiles/dino_run.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/dino_run.dir/src/core/TRex.cpp.o"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/core/TRex.cpp.o -MF CMakeFiles/dino_run.dir/src/core/TRex.cpp.o.d -o CMakeFiles/dino_run.dir/src/core/TRex.cpp.o -c /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/TRex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/dino_run.dir/src/core/TRex.cpp.o"
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/core/TRex.cpp.o -MF CMakeFiles/dino_run.dir/src/core/TRex.cpp.o.d -o CMakeFiles/dino_run.dir/src/core/TRex.cpp.o -c /home/launzoa/Documents/GitHub/dino-run/code/src/core/TRex.cpp
 
 CMakeFiles/dino_run.dir/src/core/TRex.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dino_run.dir/src/core/TRex.cpp.i"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/TRex.cpp > CMakeFiles/dino_run.dir/src/core/TRex.cpp.i
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/Documents/GitHub/dino-run/code/src/core/TRex.cpp > CMakeFiles/dino_run.dir/src/core/TRex.cpp.i
 
 CMakeFiles/dino_run.dir/src/core/TRex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dino_run.dir/src/core/TRex.cpp.s"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/TRex.cpp -o CMakeFiles/dino_run.dir/src/core/TRex.cpp.s
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/Documents/GitHub/dino-run/code/src/core/TRex.cpp -o CMakeFiles/dino_run.dir/src/core/TRex.cpp.s
 
 CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o: CMakeFiles/dino_run.dir/flags.make
 CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o: CMakeFiles/dino_run.dir/includes_CXX.rsp
-CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o: /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/Layer.cpp
+CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o: /home/launzoa/Documents/GitHub/dino-run/code/src/ia/Layer.cpp
 CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o: CMakeFiles/dino_run.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o -MF CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o.d -o CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o -c /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/Layer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o"
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o -MF CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o.d -o CMakeFiles/dino_run.dir/src/ia/Layer.cpp.o -c /home/launzoa/Documents/GitHub/dino-run/code/src/ia/Layer.cpp
 
 CMakeFiles/dino_run.dir/src/ia/Layer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dino_run.dir/src/ia/Layer.cpp.i"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/Layer.cpp > CMakeFiles/dino_run.dir/src/ia/Layer.cpp.i
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/Documents/GitHub/dino-run/code/src/ia/Layer.cpp > CMakeFiles/dino_run.dir/src/ia/Layer.cpp.i
 
 CMakeFiles/dino_run.dir/src/ia/Layer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dino_run.dir/src/ia/Layer.cpp.s"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/Layer.cpp -o CMakeFiles/dino_run.dir/src/ia/Layer.cpp.s
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/Documents/GitHub/dino-run/code/src/ia/Layer.cpp -o CMakeFiles/dino_run.dir/src/ia/Layer.cpp.s
 
 CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o: CMakeFiles/dino_run.dir/flags.make
 CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o: CMakeFiles/dino_run.dir/includes_CXX.rsp
-CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o: /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/MLP.cpp
+CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o: /home/launzoa/Documents/GitHub/dino-run/code/src/ia/MLP.cpp
 CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o: CMakeFiles/dino_run.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o -MF CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o.d -o CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o -c /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/MLP.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o"
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o -MF CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o.d -o CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o -c /home/launzoa/Documents/GitHub/dino-run/code/src/ia/MLP.cpp
 
 CMakeFiles/dino_run.dir/src/ia/MLP.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dino_run.dir/src/ia/MLP.cpp.i"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/MLP.cpp > CMakeFiles/dino_run.dir/src/ia/MLP.cpp.i
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/Documents/GitHub/dino-run/code/src/ia/MLP.cpp > CMakeFiles/dino_run.dir/src/ia/MLP.cpp.i
 
 CMakeFiles/dino_run.dir/src/ia/MLP.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dino_run.dir/src/ia/MLP.cpp.s"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/MLP.cpp -o CMakeFiles/dino_run.dir/src/ia/MLP.cpp.s
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/Documents/GitHub/dino-run/code/src/ia/MLP.cpp -o CMakeFiles/dino_run.dir/src/ia/MLP.cpp.s
 
 CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o: CMakeFiles/dino_run.dir/flags.make
 CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o: CMakeFiles/dino_run.dir/includes_CXX.rsp
-CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o: /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/Neuron.cpp
+CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o: /home/launzoa/Documents/GitHub/dino-run/code/src/ia/Neuron.cpp
 CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o: CMakeFiles/dino_run.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o -MF CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o.d -o CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o -c /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/Neuron.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o"
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o -MF CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o.d -o CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.o -c /home/launzoa/Documents/GitHub/dino-run/code/src/ia/Neuron.cpp
 
 CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.i"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/Neuron.cpp > CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.i
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/Documents/GitHub/dino-run/code/src/ia/Neuron.cpp > CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.i
 
 CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.s"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/Neuron.cpp -o CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.s
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/Documents/GitHub/dino-run/code/src/ia/Neuron.cpp -o CMakeFiles/dino_run.dir/src/ia/Neuron.cpp.s
 
 CMakeFiles/dino_run.dir/src/main.cpp.o: CMakeFiles/dino_run.dir/flags.make
 CMakeFiles/dino_run.dir/src/main.cpp.o: CMakeFiles/dino_run.dir/includes_CXX.rsp
-CMakeFiles/dino_run.dir/src/main.cpp.o: /home/launzoa/GitHub/Neural-Networks/T-Rex/src/main.cpp
+CMakeFiles/dino_run.dir/src/main.cpp.o: /home/launzoa/Documents/GitHub/dino-run/code/src/main.cpp
 CMakeFiles/dino_run.dir/src/main.cpp.o: CMakeFiles/dino_run.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/dino_run.dir/src/main.cpp.o"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/main.cpp.o -MF CMakeFiles/dino_run.dir/src/main.cpp.o.d -o CMakeFiles/dino_run.dir/src/main.cpp.o -c /home/launzoa/GitHub/Neural-Networks/T-Rex/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/dino_run.dir/src/main.cpp.o"
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dino_run.dir/src/main.cpp.o -MF CMakeFiles/dino_run.dir/src/main.cpp.o.d -o CMakeFiles/dino_run.dir/src/main.cpp.o -c /home/launzoa/Documents/GitHub/dino-run/code/src/main.cpp
 
 CMakeFiles/dino_run.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dino_run.dir/src/main.cpp.i"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/GitHub/Neural-Networks/T-Rex/src/main.cpp > CMakeFiles/dino_run.dir/src/main.cpp.i
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/launzoa/Documents/GitHub/dino-run/code/src/main.cpp > CMakeFiles/dino_run.dir/src/main.cpp.i
 
 CMakeFiles/dino_run.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dino_run.dir/src/main.cpp.s"
-	/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/GitHub/Neural-Networks/T-Rex/src/main.cpp -o CMakeFiles/dino_run.dir/src/main.cpp.s
+	/home/launzoa/dev/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/launzoa/Documents/GitHub/dino-run/code/src/main.cpp -o CMakeFiles/dino_run.dir/src/main.cpp.s
 
 # Object files for target dino_run
 dino_run_OBJECTS = \
@@ -202,7 +202,7 @@ dino_run.html: _deps/raylib-build/raylib/libraylib.a
 dino_run.html: CMakeFiles/dino_run.dir/linkLibs.rsp
 dino_run.html: CMakeFiles/dino_run.dir/objects1.rsp
 dino_run.html: CMakeFiles/dino_run.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable dino_run.html"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable dino_run.html"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/dino_run.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -214,6 +214,6 @@ CMakeFiles/dino_run.dir/clean:
 .PHONY : CMakeFiles/dino_run.dir/clean
 
 CMakeFiles/dino_run.dir/depend:
-	cd /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/launzoa/GitHub/Neural-Networks/T-Rex /home/launzoa/GitHub/Neural-Networks/T-Rex /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles/dino_run.dir/DependInfo.cmake "--color=$(COLOR)" dino_run
+	cd /home/launzoa/Documents/GitHub/dino-run/code/build_web && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/launzoa/Documents/GitHub/dino-run/code /home/launzoa/Documents/GitHub/dino-run/code /home/launzoa/Documents/GitHub/dino-run/code/build_web /home/launzoa/Documents/GitHub/dino-run/code/build_web /home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles/dino_run.dir/DependInfo.cmake "--color=$(COLOR)" dino_run
 .PHONY : CMakeFiles/dino_run.dir/depend
 

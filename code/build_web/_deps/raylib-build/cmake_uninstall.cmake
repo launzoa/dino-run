@@ -1,8 +1,8 @@
-if(NOT EXISTS "/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/install_manifest.txt")
-  message(FATAL_ERROR "Cannot find install manifest: /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/install_manifest.txt")
+if(NOT EXISTS "/home/launzoa/Documents/GitHub/dino-run/code/build_web/install_manifest.txt")
+  message(FATAL_ERROR "Cannot find install manifest: /home/launzoa/Documents/GitHub/dino-run/code/build_web/install_manifest.txt")
 endif()
 
-file(READ "/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/install_manifest.txt" files)
+file(READ "/home/launzoa/Documents/GitHub/dino-run/code/build_web/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 foreach(file ${files})
   message(STATUS "Uninstalling $ENV{DESTDIR}${file}")

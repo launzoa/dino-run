@@ -1,12 +1,12 @@
 _deps/raylib-build/raylib/CMakeFiles/raylib.dir/raudio.c.o: \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/raudio.c \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/raudio.c \
  /usr/include/stdc-predef.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/raylib.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/raylib.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/stdarg.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/stdbool.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/config.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/utils.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/external/miniaudio.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/config.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/utils.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/external/miniaudio.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/stddef.h \
  /usr/include/pthread.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
@@ -76,10 +76,10 @@ _deps/raylib-build/raylib/CMakeFiles/raylib.dir/raudio.c.o: \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
  /usr/include/bits/stdint-least.h /usr/include/bits/eventfd.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/external/dr_wav.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/external/stb_vorbis.c \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/external/dr_mp3.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/external/qoa.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/external/qoaplay.c \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/external/jar_xm.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/external/jar_mod.h
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/external/dr_wav.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/external/stb_vorbis.c \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/external/dr_mp3.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/external/qoa.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/external/qoaplay.c \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/external/jar_xm.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/external/jar_mod.h

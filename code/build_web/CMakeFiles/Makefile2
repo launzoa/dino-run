@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/launzoa/GitHub/Neural-Networks/T-Rex
+CMAKE_SOURCE_DIR = /home/launzoa/Documents/GitHub/dino-run/code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web
+CMAKE_BINARY_DIR = /home/launzoa/Documents/GitHub/dino-run/code/build_web
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -127,14 +127,14 @@ _deps/raylib-build/raylib/clean: _deps/raylib-build/raylib/CMakeFiles/raylib.dir
 CMakeFiles/dino_run.dir/all: _deps/raylib-build/raylib/CMakeFiles/raylib.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/dino_run.dir/build.make CMakeFiles/dino_run.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/dino_run.dir/build.make CMakeFiles/dino_run.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target dino_run"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target dino_run"
 .PHONY : CMakeFiles/dino_run.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/dino_run.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles 16
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles 16
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/dino_run.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles 0
 .PHONY : CMakeFiles/dino_run.dir/rule
 
 # Convenience name for target.
@@ -144,7 +144,7 @@ dino_run: CMakeFiles/dino_run.dir/rule
 # codegen rule for target.
 CMakeFiles/dino_run.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/dino_run.dir/build.make CMakeFiles/dino_run.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Finished codegen for target dino_run"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Finished codegen for target dino_run"
 .PHONY : CMakeFiles/dino_run.dir/codegen
 
 # clean rule for target.
@@ -159,14 +159,14 @@ CMakeFiles/dino_run.dir/clean:
 _deps/raylib-build/CMakeFiles/uninstall.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/raylib-build/CMakeFiles/uninstall.dir/build.make _deps/raylib-build/CMakeFiles/uninstall.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/raylib-build/CMakeFiles/uninstall.dir/build.make _deps/raylib-build/CMakeFiles/uninstall.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num= "Built target uninstall"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num= "Built target uninstall"
 .PHONY : _deps/raylib-build/CMakeFiles/uninstall.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/raylib-build/CMakeFiles/uninstall.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/raylib-build/CMakeFiles/uninstall.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles 0
 .PHONY : _deps/raylib-build/CMakeFiles/uninstall.dir/rule
 
 # Convenience name for target.
@@ -176,7 +176,7 @@ uninstall: _deps/raylib-build/CMakeFiles/uninstall.dir/rule
 # codegen rule for target.
 _deps/raylib-build/CMakeFiles/uninstall.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f _deps/raylib-build/CMakeFiles/uninstall.dir/build.make _deps/raylib-build/CMakeFiles/uninstall.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num= "Finished codegen for target uninstall"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num= "Finished codegen for target uninstall"
 .PHONY : _deps/raylib-build/CMakeFiles/uninstall.dir/codegen
 
 # clean rule for target.
@@ -191,14 +191,14 @@ _deps/raylib-build/CMakeFiles/uninstall.dir/clean:
 _deps/raylib-build/raylib/CMakeFiles/raylib.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/raylib-build/raylib/CMakeFiles/raylib.dir/build.make _deps/raylib-build/raylib/CMakeFiles/raylib.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/raylib-build/raylib/CMakeFiles/raylib.dir/build.make _deps/raylib-build/raylib/CMakeFiles/raylib.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=9,10,11,12,13,14,15,16 "Built target raylib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=9,10,11,12,13,14,15,16 "Built target raylib"
 .PHONY : _deps/raylib-build/raylib/CMakeFiles/raylib.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/raylib-build/raylib/CMakeFiles/raylib.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles 0
 .PHONY : _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rule
 
 # Convenience name for target.
@@ -208,7 +208,7 @@ raylib: _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rule
 # codegen rule for target.
 _deps/raylib-build/raylib/CMakeFiles/raylib.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f _deps/raylib-build/raylib/CMakeFiles/raylib.dir/build.make _deps/raylib-build/raylib/CMakeFiles/raylib.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/CMakeFiles --progress-num=9,10,11,12,13,14,15,16 "Finished codegen for target raylib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/launzoa/Documents/GitHub/dino-run/code/build_web/CMakeFiles --progress-num=9,10,11,12,13,14,15,16 "Finished codegen for target raylib"
 .PHONY : _deps/raylib-build/raylib/CMakeFiles/raylib.dir/codegen
 
 # clean rule for target.

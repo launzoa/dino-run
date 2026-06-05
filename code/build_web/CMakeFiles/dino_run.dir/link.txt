@@ -1,1 +1,1 @@
-/home/launzoa/GitHub/emsdk/upstream/emscripten/em++ -sUSE_GLFW=3 --preload-file /home/launzoa/GitHub/Neural-Networks/T-Rex/assets@/assets @CMakeFiles/dino_run.dir/objects1.rsp -o dino_run.html @CMakeFiles/dino_run.dir/linkLibs.rsp
+/home/launzoa/dev/emsdk/upstream/emscripten/em++ -sUSE_GLFW=3 --preload-file /home/launzoa/Documents/GitHub/dino-run/code/assets@/assets @CMakeFiles/dino_run.dir/objects1.rsp -o dino_run.html @CMakeFiles/dino_run.dir/linkLibs.rsp

@@ -1,9 +1,9 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/cmake_install.cmake",
-		"/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-build/cmake_install.cmake",
-		"/home/launzoa/GitHub/Neural-Networks/T-Rex/build_web/_deps/raylib-build/raylib/cmake_install.cmake"
+		"/home/launzoa/Documents/GitHub/dino-run/code/build_web/cmake_install.cmake",
+		"/home/launzoa/Documents/GitHub/dino-run/code/build_web/_deps/raylib-build/cmake_install.cmake",
+		"/home/launzoa/Documents/GitHub/dino-run/code/build_web/_deps/raylib-build/raylib/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

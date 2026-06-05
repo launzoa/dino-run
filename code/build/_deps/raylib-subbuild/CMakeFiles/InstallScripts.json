@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-subbuild/cmake_install.cmake"
+		"/home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-subbuild/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

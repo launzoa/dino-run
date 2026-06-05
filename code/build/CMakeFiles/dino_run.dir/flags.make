@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP
 
-CXX_INCLUDES = -I/home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/headers -I/home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/headers -I/home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src -I/home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/external/glfw/include
+CXX_INCLUDES = -I/home/launzoa/Documents/GitHub/dino-run/code/src/core/headers -I/home/launzoa/Documents/GitHub/dino-run/code/src/ia/headers -I/home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src -I/home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/external/glfw/include
 
 CXX_FLAGS = -std=gnu++17
 

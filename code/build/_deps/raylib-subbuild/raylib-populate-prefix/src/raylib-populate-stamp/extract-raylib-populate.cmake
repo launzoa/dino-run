@@ -5,8 +5,8 @@ cmake_minimum_required(VERSION ${CMAKE_VERSION}) # this file comes with cmake
 
 # Make file names absolute:
 #
-get_filename_component(filename "/home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-subbuild/raylib-populate-prefix/src/5.0.tar.gz" ABSOLUTE)
-get_filename_component(directory "/home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src" ABSOLUTE)
+get_filename_component(filename "/home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-subbuild/raylib-populate-prefix/src/5.0.tar.gz" ABSOLUTE)
+get_filename_component(directory "/home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src" ABSOLUTE)
 
 message(VERBOSE "extracting...
      src='${filename}'

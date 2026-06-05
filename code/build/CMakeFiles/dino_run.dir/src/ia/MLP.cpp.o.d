@@ -1,9 +1,9 @@
 CMakeFiles/dino_run.dir/src/ia/MLP.cpp.o: \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/MLP.cpp \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/ia/MLP.cpp \
  /usr/include/stdc-predef.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/headers/MLP.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/headers/Layer.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/headers/Neuron.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/ia/headers/MLP.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/ia/headers/Layer.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/ia/headers/Neuron.h \
  /usr/include/c++/16.1.1/vector \
  /usr/include/c++/16.1.1/bits/requires_hosted.h \
  /usr/include/c++/16.1.1/x86_64-pc-linux-gnu/bits/c++config.h \

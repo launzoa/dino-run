@@ -1,11 +1,10 @@
 CMakeFiles/dino_run.dir/src/main.cpp.o: \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/main.cpp \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/main.cpp \
  /usr/include/stdc-predef.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/headers/GameWorld.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/headers/Obstacle.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/headers/constants.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/core/headers/TRex.h \
- /usr/include/c++/16.1.1/deque \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/core/headers/GameWorld.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/core/headers/Obstacle.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/core/headers/constants.h \
+ /usr/include/c++/16.1.1/vector \
  /usr/include/c++/16.1.1/bits/requires_hosted.h \
  /usr/include/c++/16.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/16.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -15,9 +14,6 @@ CMakeFiles/dino_run.dir/src/main.cpp.o: \
  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
  /usr/include/c++/16.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
  /usr/include/c++/16.1.1/pstl/pstl_config.h \
- /usr/include/c++/16.1.1/bits/stdexcept_throw.h \
- /usr/include/c++/16.1.1/bits/exception_defines.h \
- /usr/include/c++/16.1.1/bits/stdexcept_throwfwd.h \
  /usr/include/c++/16.1.1/bits/stl_algobase.h \
  /usr/include/c++/16.1.1/bits/cpp_type_traits.h \
  /usr/include/c++/16.1.1/bits/version.h \
@@ -43,31 +39,35 @@ CMakeFiles/dino_run.dir/src/main.cpp.o: \
  /usr/include/c++/16.1.1/bits/new_allocator.h /usr/include/c++/16.1.1/new \
  /usr/include/c++/16.1.1/bits/exception.h \
  /usr/include/c++/16.1.1/bits/new_except.h \
+ /usr/include/c++/16.1.1/bits/exception_defines.h \
  /usr/include/c++/16.1.1/bits/new_throw.h \
  /usr/include/c++/16.1.1/bits/memoryfwd.h \
  /usr/include/c++/16.1.1/bits/stl_construct.h \
  /usr/include/c++/16.1.1/bits/stl_uninitialized.h \
  /usr/include/c++/16.1.1/ext/alloc_traits.h \
  /usr/include/c++/16.1.1/bits/alloc_traits.h \
- /usr/include/c++/16.1.1/bits/stl_deque.h \
+ /usr/include/c++/16.1.1/bits/stl_vector.h \
+ /usr/include/c++/16.1.1/bits/stdexcept_throw.h \
+ /usr/include/c++/16.1.1/bits/stdexcept_throwfwd.h \
  /usr/include/c++/16.1.1/initializer_list \
+ /usr/include/c++/16.1.1/bits/stl_bvector.h \
+ /usr/include/c++/16.1.1/bits/functional_hash.h \
+ /usr/include/c++/16.1.1/bits/hash_bytes.h \
  /usr/include/c++/16.1.1/bits/range_access.h \
  /usr/include/c++/16.1.1/bits/erase_if.h \
- /usr/include/c++/16.1.1/bits/deque.tcc \
+ /usr/include/c++/16.1.1/bits/vector.tcc \
  /usr/include/c++/16.1.1/bits/memory_resource.h \
  /usr/include/c++/16.1.1/cstddef \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/stddef.h \
  /usr/include/c++/16.1.1/bits/uses_allocator.h \
  /usr/include/c++/16.1.1/bits/uses_allocator_args.h \
  /usr/include/c++/16.1.1/tuple /usr/include/c++/16.1.1/bits/invoke.h \
- /usr/include/c++/16.1.1/vector /usr/include/c++/16.1.1/bits/stl_vector.h \
- /usr/include/c++/16.1.1/bits/stl_bvector.h \
- /usr/include/c++/16.1.1/bits/functional_hash.h \
- /usr/include/c++/16.1.1/bits/hash_bytes.h \
- /usr/include/c++/16.1.1/bits/vector.tcc \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/headers/MLP.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/headers/Layer.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/src/ia/headers/Neuron.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/core/headers/TRex.h \
+ /usr/include/c++/16.1.1/deque /usr/include/c++/16.1.1/bits/stl_deque.h \
+ /usr/include/c++/16.1.1/bits/deque.tcc \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/ia/headers/MLP.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/ia/headers/Layer.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/src/ia/headers/Neuron.h \
  /usr/include/c++/16.1.1/cmath /usr/include/math.h \
  /usr/include/bits/libc-header-start.h /usr/include/bits/math-vector.h \
  /usr/include/bits/libm-simd-decl-stubs.h /usr/include/bits/floatn.h \
@@ -108,5 +108,5 @@ CMakeFiles/dino_run.dir/src/main.cpp.o: \
  /usr/include/c++/16.1.1/tr1/poly_hermite.tcc \
  /usr/include/c++/16.1.1/tr1/poly_laguerre.tcc \
  /usr/include/c++/16.1.1/tr1/riemann_zeta.tcc \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/raylib.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/raylib.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/stdarg.h

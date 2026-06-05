@@ -5,7 +5,7 @@ mkdir -p build_web
 cd build_web
 
 # Carrega as variaveis de ambiente do Emscripten
-source ~/GitHub/emsdk/emsdk_env.sh
+source ~/dev/emsdk/emsdk_env.sh
 
 # Configura o CMake usando a toolchain do Emscripten
 echo "Configurando o CMake para WebAssembly..."

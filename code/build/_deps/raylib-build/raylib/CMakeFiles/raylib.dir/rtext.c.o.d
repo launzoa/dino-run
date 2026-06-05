@@ -1,12 +1,12 @@
 _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtext.c.o: \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/rtext.c \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/rtext.c \
  /usr/include/stdc-predef.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/raylib.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/raylib.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/stdarg.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/stdbool.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/config.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/utils.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/rlgl.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/config.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/utils.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/rlgl.h \
  /usr/include/stdlib.h /usr/include/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/bits/wordsize.h /usr/include/bits/timesize.h \
@@ -38,9 +38,9 @@ _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtext.c.o: \
  /usr/include/bits/stdio_lim.h /usr/include/string.h \
  /usr/include/bits/types/locale_t.h /usr/include/bits/types/__locale_t.h \
  /usr/include/strings.h /usr/include/ctype.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/external/stb_rect_pack.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/external/stb_rect_pack.h \
  /usr/include/assert.h \
- /home/launzoa/GitHub/Neural-Networks/T-Rex/build/_deps/raylib-src/src/external/stb_truetype.h \
+ /home/launzoa/Documents/GitHub/dino-run/code/build/_deps/raylib-src/src/external/stb_truetype.h \
  /usr/include/math.h /usr/include/bits/math-vector.h \
  /usr/include/bits/libm-simd-decl-stubs.h \
  /usr/include/bits/flt-eval-method.h /usr/include/bits/fp-logb.h \
